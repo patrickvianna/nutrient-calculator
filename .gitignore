@@ -3,3 +3,5 @@
 ################################################################################
 
 /NutrientCalculator/NutrientCalculator.App/obj
+/NutrientCalculator/NutrientCalculator.App/ClientApp/node_modules
+/NutrientCalculator2/.vs/nutrienteCalculator

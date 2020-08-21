@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NutrientCalculator.App", "nutrientCalculator.App\NutrientCalculator.App.csproj", "{7328056A-BDD8-4AA0-B0C4-3FB75C28E722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutrientCalculator.Test.Domain", "NutrientCalculator.Test.Domain\NutrientCalculator.Test.Domain.csproj", "{64CACA14-5FA0-4872-BB3A-5AB2F5772E88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7328056A-BDD8-4AA0-B0C4-3FB75C28E722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7328056A-BDD8-4AA0-B0C4-3FB75C28E722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7328056A-BDD8-4AA0-B0C4-3FB75C28E722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7328056A-BDD8-4AA0-B0C4-3FB75C28E722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CACA14-5FA0-4872-BB3A-5AB2F5772E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CACA14-5FA0-4872-BB3A-5AB2F5772E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CACA14-5FA0-4872-BB3A-5AB2F5772E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CACA14-5FA0-4872-BB3A-5AB2F5772E88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE4EB3EC-77A6-40A4-8B8F-039F3C40CAC0}
+	EndGlobalSection
+EndGlobal
